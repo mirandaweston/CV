@@ -1,77 +1,49 @@
-## Your Name
+## Miranda Weston
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Full Stack Junior Developer in training at Makers Academy.
 
-## Projects
-
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+## Projects            |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Cabinet Office** (June 2022 - January 2023)  
+_Policy Officer_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+**Stay Safe East** (July 2019 - June 2022)  
+_Policy and Research Officer_
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- 
+- 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
+#### Makers Academy (December 2022 - April 2023)
+
+Highly selective 16-week programming course focusing on:
+
+- Object-Oriented Programming and software design
+- Pair programming
+- Agile methodologies
+- Test-driven development
+- Software craftsmanship
+- Ruby, Rails, JavaScript, Node.js, Angular.js
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### The London School of Economics and Political Science (September 2020 - August 2022)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Master of Science in Human Rights: Merit
 
-#### Any other qualifications
+#### King's College London (September 2016 - June 2019)
 
-That in some arguable way make you a better software developer or well-rounded person
+- BA (Hons) Global Health and Social Medicine: First Class Honours (1:1)
+- Associate of King's College London (AKC) with Dean's Commendation
+
+#### Tresham College of Further and Higher Education (September 2013 - June 2015)
+
+- A Levels: Psychology (A), Sociology (A) and English Literature (B)
+- Extended Project Qualification (A*)
 
 ## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
