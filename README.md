@@ -47,3 +47,7 @@ Highly selective 16-week programming course focusing on:
 - Extended Project Qualification (A*)
 
 ## Hobbies
+
+- Tech meetups, particularly those held by organisations striving to diversify the tech field
+- Travel (I seem to have taken a real shining to Scandinavia in particular)
+- Learning Danish (continuing with the Scandi theme)
