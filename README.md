@@ -4,13 +4,6 @@ Full Stack Junior Developer in training at Makers Academy.
 
 ## Projects            |
 
-## Work Experience
-
-**Cabinet Office** (June 2022 - January 2023)  
-_Policy Officer_
-
-**Stay Safe East** (July 2019 - June 2022)  
-_Policy and Research Officer_
 
 
 ## Skills
@@ -46,8 +39,23 @@ Highly selective 16-week programming course focusing on:
 - A Levels: Psychology (A), Sociology (A) and English Literature (B)
 - Extended Project Qualification (A*)
 
+## Work Experience
+
+**Cabinet Office** (June 2022 - January 2023)  
+_Policy Officer_
+Responsible for aiding the development and implementation of policy work in central government to ensure that ministerial objectives are met.
+
+**Stay Safe East** (July 2019 - June 2022)  
+_Policy and Research Officer_
+A focus on conducting research and data analysis (quantitative and qualitative) to inform national domestic abuse policy
+This involved building relationships with internal and external stakeholders, including peers in the House of Lords, to shape the passage of the Domestic Abuse Bill through Parliament
+
+**Deliveroo** (November 2015 - March 2018)  
+_Rider Operations Associate_
+Responsible for onboarding new riders from interview to hiring, as well as working with the Global Ops team to deliver improvements to rider experience whilst ensuring compliance and legal requirements are met.
+
 ## Hobbies
 
 - Tech meetups, particularly those held by organisations striving to diversify the tech field
 - Travel (I seem to have taken a real shining to Scandinavia in particular)
-- Learning Danish (continuing with the Scandi theme)
+- Learning Danish (continuing with the Scandi theme!)
