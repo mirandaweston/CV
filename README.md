@@ -1,11 +1,13 @@
 # Miranda Weston
-[Projects](#Projects) | [Experience](#Experience) | [LinkedIn](https://www.linkedin.com/in/miranda-w-8b3461156/) | [GitHub](https://github.com/mirandaweston)
+[Projects](#Projects) | [Experience](#Experience) | [Education](#Education) [LinkedIn](https://www.linkedin.com/in/miranda-w-8b3461156/) | [GitHub](https://github.com/mirandaweston)
 
 Full Stack Junior Developer in training at Makers Academy.  
 
-## Projects
+My background before coding exists at the intersection of global health and human rights, holding a BA in the former and an MSc in the latter, whilst working in national domestic abuse policy approached as a health issue and a human rights violation.
 
+What began as a hobby became a catalyst for a reassessment of my career aspirations: coding is addictive, creative, and logical. The logic-driven ability to create something that previously did not exist is what keeps me coding.
 
+Upon completion of Makers Academy bootcamp, I am looking for a role where I can continue to write clean code and develop my programming knowledge.
 
 ## Skills
 
@@ -21,6 +23,13 @@ Full Stack Junior Developer in training at Makers Academy.
 ### Self-starter
 - Self-motivation and self-discipline have been intrinsic to my coding journey. Makers catalysed the development of these attributes with its emphasis on self-led learning in preparation for everyday life as a programmer.
 - Whilst working in Cabinet Office, I sought connections with Government Digital Service to network with software engineers and learn more about what it takes to be a coder.
+
+## Projects
+
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Something else worked on** | A webapp to do y. | Ruby
 
 ## Education
 
