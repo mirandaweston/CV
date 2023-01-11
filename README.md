@@ -3,11 +3,11 @@
 
 Full Stack Junior Developer in training at Makers Academy.  
 
-My background before coding exists at the intersection of global health and human rights, holding a BA in the former and an MSc in the latter, whilst working in national domestic abuse policy approached as a health issue and a human rights violation.
+My background before coding exists at the intersection of global health and human rights, having obtained a BA in the former and an MSc in the latter, whilst working in national domestic abuse policy approached as a health issue and a human rights violation.
 
-What began as a hobby became a catalyst for a reassessment of my career aspirations: coding is addictive, creative, and logical. The logic-driven ability to create something that previously did not exist is what keeps me coding.
+What began as a hobby became a catalyst for a reassessment of my career aspirations: coding is addictive, creative, and logical. It requires patience, self-discipline and a hunger to learn. The logic-driven ability to create something that previously did not exist is what keeps me coding.
 
-Upon completion of Makers Academy bootcamp, I am looking for a role where I can continue to write clean code and develop my programming knowledge.
+Upon completion of Makers Academy bootcamp, I am looking for a Full Stack Junior Developer role where I can continue to write clean code and develop my programming knowledge in a growth-oriented environment.
 
 ## Skills
 
