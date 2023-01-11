@@ -1,7 +1,7 @@
 # Miranda Weston
 [Projects](#Projects) | [Experience](#Experience) | [Education](#Education) | [LinkedIn](https://www.linkedin.com/in/miranda-w-8b3461156/) | [GitHub](https://github.com/mirandaweston)
 
-Full Stack Junior Developer in training at Makers Academy.  
+Full Stack Junior Developer in training at [Makers Academy](https://makers.tech).  
 
 My background before coding exists at the intersection of global health and human rights, having obtained a BA in the former and an MSc in the latter, whilst working in national domestic abuse policy approached as a health issue and a human rights violation.
 
