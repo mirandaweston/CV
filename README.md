@@ -8,7 +8,17 @@ Full Stack Junior Developer in training at Makers Academy.
 
 ## Skills
 
+### Fast learner
+- Learning to code developed my growth-oriented mindset and satiated my need for constant mental stimulation, aided by the principles of spiral learning
+- Within the first 3 weeks of Makers, I have learnt and written Ruby code of increasing complexity, grasped the inner workings of GitHub, and written two command line programs including the use of TDD and RSpec
+- My ability to rapidly consume, retain and apply skills was required whilst working in Operations at Deliveroo at a time of technological change in how riders were onboarded to satisfy new compliance and legal requirements. I needed to grasp and immediately apply new technical skills to suit an evolving start-up where processes were subject to change with immediate effect.
+
+### Communicator
+- Makers has consolidated my communication skills within a coding environment, particularly when reviewing each other's code, with an emphasis on pair programming from day one. Habitual collaborative learning engenders a deeper understanding of one's progress whilst working together to write cleaner code.
 - 
+
+### Self-starter
+- Self-motivation and self-discipline have been intrinsic to my coding journey. Makers catalysed the development of these attributes with its emphasis on self-led learning in preparation for everyday life as a programmer.
 - 
 
 ## Education
@@ -49,13 +59,12 @@ Responsible for aiding the development and implementation of policy work in cent
 **Stay Safe East** (July 2019 - June 2022)  
 _Policy and Research Officer_
 
-A focus on conducting research and data analysis (quantitative and qualitative) to inform national domestic abuse policy
-This involved building relationships with internal and external stakeholders, including peers in the House of Lords, to shape the passage of the Domestic Abuse Bill through Parliament
+A focus on conducting research and data analysis (quantitative and qualitative) to inform national domestic abuse policy. This involved building relationships with internal and external stakeholders, including peers in the House of Lords, to shape the passage of the Domestic Abuse Bill through Parliament
 
 **Deliveroo** (November 2015 - March 2018)  
 _Rider Operations Associate_
 
-Responsible for onboarding new riders from interview to hiring, as well as working with the Global Ops team to deliver improvements to rider experience whilst ensuring compliance and legal requirements are met.
+Responsible for onboarding new riders from interview to hiring, as well as working with the Global Ops team to deliver technological improvements to rider experience whilst ensuring compliance and legal requirements are met.
 
 ## Hobbies
 
