@@ -1,5 +1,5 @@
 # Miranda Weston
-[Projects](#Projects) | [Experience](#Experience) | [Education](#Education) [LinkedIn](https://www.linkedin.com/in/miranda-w-8b3461156/) | [GitHub](https://github.com/mirandaweston)
+[Projects](#Projects) | [Experience](#Experience) | [Education](#Education) | [LinkedIn](https://www.linkedin.com/in/miranda-w-8b3461156/) | [GitHub](https://github.com/mirandaweston)
 
 Full Stack Junior Developer in training at Makers Academy.  
 
