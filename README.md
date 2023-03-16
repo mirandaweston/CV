@@ -13,7 +13,6 @@ Upon completion of Makers Academy bootcamp, I am looking for a Full Stack Junior
 
 ### Fast learner
 - Learning to code developed my growth-oriented mindset and satiated my need for constant mental stimulation, aided by the principles of spiral learning.
-- Within the first 3 weeks of Makers, I have learnt and written Ruby code of increasing complexity, grasped the inner workings of GitHub, and written two command line programs including the use of TDD and RSpec.
 - My ability to rapidly consume, retain and apply skills was required whilst working in Operations at Deliveroo at a time of technological change in how riders were onboarded to satisfy new compliance and legal requirements. I grasped and immediately applied new technical skills to suit an evolving start-up where processes were subject to change with immediate effect.
 
 ### Communicator
@@ -26,10 +25,13 @@ Upon completion of Makers Academy bootcamp, I am looking for a Full Stack Junior
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby
+| Name               | Description           |  Tech/tools            |
+| ------------------ | --------------------- | ---------------------- |
+| **Chitter**        | A Twitter clone       | PostgreSQL, Sinatra,   |
+|                    | built with JavaScript,| BCrypt                 |
+|                    | Sinatra and CSS       |                        |
+| **Pokedex App**    | A Pokedex app built   | PostgreSQL,            |
+|                    | with JavaScript       | Node.js, PokeAPI, Jest |
 
 ## Education
 
@@ -80,4 +82,4 @@ Responsible for onboarding new riders from interview to hiring, as well as worki
 
 - Tech meetups, particularly those held by organisations striving to diversify the tech field
 - Travel (I seem to have taken a real shining to Scandinavia in particular)
-- Learning Danish (continuing with the Scandi theme!)
+- Yoga
