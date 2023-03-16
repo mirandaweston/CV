@@ -7,7 +7,7 @@ My background before coding exists at the intersection of global health and huma
 
 What began as a hobby became a catalyst for a reassessment of my career aspirations: coding is addictive, creative, and logical. It requires patience, self-discipline and a hunger to learn. The logic-driven ability to create something that previously did not exist is what keeps me coding.
 
-Upon completion of Makers Academy bootcamp, I am looking for a Full Stack Junior Developer role where I can continue to write clean code and develop my programming knowledge in a growth-oriented environment.
+Upon completion of Makers Academy, I am looking for a Full Stack Junior Developer role where I can continue to write clean code and develop my programming knowledge in a growth-oriented environment.
 
 ## Skills
 
@@ -25,13 +25,10 @@ Upon completion of Makers Academy bootcamp, I am looking for a Full Stack Junior
 
 ## Projects
 
-| Name               | Description           |  Tech/tools            |
+| Name               | Description           | Tech/tools             |
 | ------------------ | --------------------- | ---------------------- |
-| **Chitter**        | A Twitter clone       | PostgreSQL, Sinatra,   |
-|                    | built with JavaScript,| BCrypt                 |
-|                    | Sinatra and CSS       |                        |
-| **Pokedex App**    | A Pokedex app built   | PostgreSQL,            |
-|                    | with JavaScript       | Node.js, PokeAPI, Jest |
+| Chitter            | A Twitter clone built with JavaScript, Sinatra, and PostgreSQL, secured with BCrypt and styled with CSS. | PostgreSQL, Sinatra, BCrypt |
+| Pokedex App        | A Pokedex app built with JavaScript, Node.js, and PostgreSQL, and tested with Jest. | PostgreSQL, Node.js, PokeAPI, Jest |
 
 ## Education
 
@@ -44,7 +41,8 @@ Highly selective 16-week programming course focusing on:
 - Agile methodologies
 - Test-driven development
 - Software craftsmanship
-- Ruby, Rails, JavaScript, Node.js, Angular.js
+- Ruby, JavaScript, React, Node.js, Angular.js
+- PostgreSQL, MongoDB
 - RSpec, Jasmine
 
 #### The London School of Economics and Political Science (September 2020 - August 2022)
