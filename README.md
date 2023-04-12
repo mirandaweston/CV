@@ -1,7 +1,8 @@
 # Miranda Weston
-[Projects](#Projects) | [Experience](#Experience) | [Education](#Education) | [LinkedIn](https://www.linkedin.com/in/miranda-w-8b3461156/) | [GitHub](https://github.com/mirandaweston)
 
-Full Stack Junior Developer in training at [Makers Academy](https://makers.tech).  
+[Projects](#Projects) | [Experience](#Experience) | [Education](#Education) | [LinkedIn](https://www.linkedin.com/in/miranda-w-8b3461156/) | [GitHub](https://github.com/mirandaweston) | [Blog](https://medium.com/@mkdirbc)
+
+Full Stack Junior Developer trained at [Makers Academy](https://makers.tech).
 
 My background before coding exists at the intersection of global health and human rights, having obtained a BA in the former and an MSc in the latter, whilst working in national domestic abuse policy approached as a health issue and a human rights violation.
 
@@ -12,26 +13,28 @@ Upon completion of Makers Academy bootcamp, I am looking for a Full Stack Junior
 ## Skills
 
 ### Fast learner
+
 - Learning to code developed my growth-oriented mindset and satiated my need for constant mental stimulation, aided by the principles of spiral learning.
 - My ability to rapidly consume, retain and apply skills was required whilst working in Operations at Deliveroo at a time of technological change in how riders were onboarded to satisfy new compliance and legal requirements. I grasped and immediately applied new technical skills to suit an evolving start-up where processes were subject to change with immediate effect.
 
 ### Communicator
+
 - Makers has consolidated my communication skills within a coding environment, particularly when reviewing each other's code, with an emphasis on pair programming from day one. Habitual collaborative learning engenders a deeper understanding of one's progress whilst working together to write cleaner code.
-- 
 
 ### Self-starter
+
 - Self-motivation and self-discipline have been intrinsic to my coding journey. Makers catalysed the development of these attributes with its emphasis on self-led learning in preparation for everyday life as a programmer.
 - Whilst working in Cabinet Office, I sought connections with Government Digital Service to network with software engineers and learn more about what it takes to be a coder.
 
 ## Projects
 
-| Name               | Description           |  Tech/tools            |
-| ------------------ | --------------------- | ---------------------- |
-| **Chitter**        | A Twitter clone       | PostgreSQL, Sinatra,   |
-|                    | built with JavaScript,| BCrypt                 |
-|                    | Sinatra and CSS       |                        |
-| **Pokedex App**    | A Pokedex app built   | PostgreSQL,            |
-|                    | with JavaScript       | Node.js, PokeAPI, Jest |
+| Name            | Description            | Tech/tools             |
+| --------------- | ---------------------- | ---------------------- |
+| **Chitter**     | A Twitter clone        | PostgreSQL, Sinatra,   |
+|                 | built with JavaScript, | BCrypt                 |
+|                 | Sinatra and CSS        |                        |
+| **Pokedex App** | A Pokedex app built    | PostgreSQL,            |
+|                 | with JavaScript        | Node.js, PokeAPI, Jest |
 
 ## Education
 
@@ -59,7 +62,7 @@ Highly selective 16-week programming course focusing on:
 #### Tresham College of Further and Higher Education (September 2013 - June 2015)
 
 - A Levels: Psychology (A), Sociology (A) and English Literature (B)
-- Extended Project Qualification (A*)
+- Extended Project Qualification (A\*)
 
 ## Work Experience
 
