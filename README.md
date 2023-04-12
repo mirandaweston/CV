@@ -17,7 +17,6 @@ Upon completion of Makers Academy, I am looking for a Full Stack Junior Develope
 
 ### Communicator
 - Makers has consolidated my communication skills within a coding environment, particularly when reviewing each other's code, with an emphasis on pair programming from day one. Habitual collaborative learning engenders a deeper understanding of one's progress whilst working together to write cleaner code.
-- 
 
 ### Self-starter
 - Self-motivation and self-discipline have been intrinsic to my coding journey. Makers catalysed the development of these attributes with its emphasis on self-led learning in preparation for everyday life as a programmer.
@@ -27,8 +26,10 @@ Upon completion of Makers Academy, I am looking for a Full Stack Junior Develope
 
 | Name               | Description           | Tech/tools             |
 | ------------------ | --------------------- | ---------------------- |
-| Chitter            | A Twitter clone built with JavaScript, Sinatra, and PostgreSQL, secured with BCrypt and styled with CSS. | PostgreSQL, Sinatra, BCrypt |
-| Pokedex App        | A Pokedex app built with JavaScript, Node.js, and PostgreSQL, and tested with Jest. | PostgreSQL, Node.js, PokeAPI, Jest |
+| Tenant Talk        | A web app allowing users to rate their rental. Users can sign up, log in/out, search properties, create a review and upload photos | MERN plus Tailwind (TDD with Jest and Cypress)
+| MakersBnB          | A web app allowing users to book, view and rent out spaces | Ruby, Sinatra, PostgreSQL, HTML, CSS, Bootstrap (TDD with RSpec) |
+| Bank System        | A program simulating a bank: users can make deposits and withdrawals before printing a bank statement | JavaScript, Node.js, Jest
+| Chitter            | An app similar to Twitter: users can sign up, log in/out, post a peep and view all peeps  | Ruby, RSpec, PostgreSQL, Sinatra, BCrypt 
 
 ## Education
 
