@@ -8,7 +8,7 @@ My background before coding exists at the intersection of global health and huma
 
 What began as a hobby became a catalyst for a reassessment of my career aspirations: coding is addictive, creative, and logical. It requires patience, self-discipline and a hunger to learn. The logic-driven ability to create something that previously did not exist is what keeps me coding.
 
-Upon completion of Makers Academy bootcamp, I am looking for a Full Stack Junior Developer role where I can continue to write clean code and develop my programming knowledge in a growth-oriented environment.
+Upon completion of Makers Academy, I am looking for a Full Stack Junior Developer role where I can continue to write clean code and develop my programming knowledge in a growth-oriented environment.
 
 ## Skills
 
@@ -28,13 +28,12 @@ Upon completion of Makers Academy bootcamp, I am looking for a Full Stack Junior
 
 ## Projects
 
-| Name            | Description            | Tech/tools             |
-| --------------- | ---------------------- | ---------------------- |
-| **Chitter**     | A Twitter clone        | PostgreSQL, Sinatra,   |
-|                 | built with JavaScript, | BCrypt                 |
-|                 | Sinatra and CSS        |                        |
-| **Pokedex App** | A Pokedex app built    | PostgreSQL,            |
-|                 | with JavaScript        | Node.js, PokeAPI, Jest |
+| Name        | Description                                                                                                                        | Tech/tools                                                       |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Tenant Talk | A web app allowing users to rate their rental. Users can sign up, log in/out, search properties, create a review and upload photos | MERN plus Tailwind (TDD with Jest and Cypress)                   |
+| MakersBnB   | A web app allowing users to book, view and rent out spaces                                                                         | Ruby, Sinatra, PostgreSQL, HTML, CSS, Bootstrap (TDD with RSpec) |
+| Bank System | A program simulating a bank: users can make deposits and withdrawals before printing a bank statement                              | JavaScript, Node.js, Jest                                        |
+| Chitter     | An app similar to Twitter: users can sign up, log in/out, post a peep and view all peeps                                           | Ruby, RSpec, PostgreSQL, Sinatra, BCrypt                         |
 
 ## Education
 
@@ -47,7 +46,8 @@ Highly selective 16-week programming course focusing on:
 - Agile methodologies
 - Test-driven development
 - Software craftsmanship
-- Ruby, Rails, JavaScript, Node.js, Angular.js
+- Ruby, JavaScript, React, Node.js, Angular.js
+- PostgreSQL, MongoDB
 - RSpec, Jasmine
 
 #### The London School of Economics and Political Science (September 2020 - August 2022)
