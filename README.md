@@ -30,10 +30,10 @@ Upon completion of Makers Academy, I am looking for a Full Stack Junior Develope
 
 | Name        | Description                                                                                                                        | Tech/tools                                                       |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| Tenant Talk | A web app allowing users to rate their rental. Users can sign up, log in/out, search properties, create a review and upload photos | MERN plus Tailwind (TDD with Jest and Cypress)                   |
-| MakersBnB   | A web app allowing users to book, view and rent out spaces                                                                         | Ruby, Sinatra, PostgreSQL, HTML, CSS, Bootstrap (TDD with RSpec) |
-| Bank System | A program simulating a bank: users can make deposits and withdrawals before printing a bank statement                              | JavaScript, Node.js, Jest                                        |
-| Chitter     | An app similar to Twitter: users can sign up, log in/out, post a peep and view all peeps                                           | Ruby, RSpec, PostgreSQL, Sinatra, BCrypt                         |
+| Tenant Talk | A web app allowing users to rate their rental. Users can sign up, log in/out, search properties, create a review and upload photos | MERN plus Tailwind, Jest, Cypress                   |
+| Footwear Retailer PLP     | A Product Listings Page (PLP) for a software company providing an ecommerce platform for retailers                                           | Vue.js, JavaScript, HTML, CSS, Cypress
+| MakersBnB   | A web app allowing users to book, view and rent out spaces                                                                         | Ruby, Sinatra, PostgreSQL, HTML, CSS, Bootstrap, RSpec |
+| Bank System | A program simulating a bank: users can make deposits and withdrawals before printing a bank statement                              | JavaScript, Node.js, Jest                                        |                       |
 
 ## Education
 
@@ -48,7 +48,7 @@ Highly selective 16-week programming course focusing on:
 - Software craftsmanship
 - Ruby, JavaScript, React, Node.js, Angular.js
 - PostgreSQL, MongoDB
-- RSpec, Jasmine
+- RSpec, Jest, Cypress
 
 #### The London School of Economics and Political Science (September 2020 - August 2022)
 
