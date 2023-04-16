@@ -8,7 +8,7 @@ My background before coding exists at the intersection of global health and huma
 
 What began as a hobby became a catalyst for a reassessment of my career aspirations: coding is addictive, creative, and logical. It requires patience, self-discipline and a hunger to learn. The logic-driven ability to create something that previously did not exist is what keeps me coding.
 
-Upon completion of Makers Academy, I am looking for a Full Stack Junior Developer role where I can continue to write clean code and develop my programming knowledge in a growth-oriented environment.
+I am looking for a Full Stack Junior Developer role where I can continue to write clean code and develop my programming knowledge in a growth-oriented environment.
 
 ## Skills
 
@@ -30,10 +30,10 @@ Upon completion of Makers Academy, I am looking for a Full Stack Junior Develope
 
 | Name        | Description                                                                                                                        | Tech/tools                                                       |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| Tenant Talk | A web app allowing users to rate their rental. Users can sign up, log in/out, search properties, create a review and upload photos | MERN plus Tailwind, Jest, Cypress                   |
-| Footwear Retailer PLP     | A Product Listings Page (PLP) for a software company providing an ecommerce platform for retailers                                           | Vue.js, JavaScript, HTML, CSS, Cypress
-| MakersBnB   | A web app allowing users to book, view and rent out spaces                                                                         | Ruby, Sinatra, PostgreSQL, HTML, CSS, Bootstrap, RSpec |
-| Bank System | A program simulating a bank: users can make deposits and withdrawals before printing a bank statement                              | JavaScript, Node.js, Jest                                        |                       |
+| [Tenant Talk](https://github.com/mirandaweston/tenant-talk) | A web app allowing users to rate their rental. Users can sign up, log in/out, search properties, create a review and upload photos | MERN plus Tailwind, Jest, Cypress                   |
+| [Footwear Retailer PLP](https://github.com/mirandaweston/footwear-retailer)     | A Product Listings Page (PLP) for a software company providing an ecommerce platform for retailers                                           | Vue.js, JavaScript, HTML, CSS, Cypress
+| [MakersBnB](https://github.com/mirandaweston/makersbnb)   | A web app allowing users to book, view and rent out spaces                                                                         | Ruby, Sinatra, PostgreSQL, HTML, CSS, Bootstrap, RSpec |
+| [Bank System](https://github.com/mirandaweston/bank-tech-test) | A program simulating a bank: users can make deposits and withdrawals before printing a bank statement                              | JavaScript, Node.js, Jest                                        |                       |
 
 ## Education
 
