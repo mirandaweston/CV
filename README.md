@@ -79,7 +79,7 @@ A focus on conducting research and data analysis (quantitative and qualitative) 
 **Deliveroo** (November 2015 - March 2018)  
 _Rider Operations Associate_
 
-•	Interviewing candidates and managing new cyclist onboarding for Deliveroo, as well as working with the Global Ops team to deliver technological improvements to rider experience whilst ensuring compliance and legal requirements are met.
+Interviewing candidates and managing new cyclist onboarding for Deliveroo, as well as working with the Global Ops team to deliver technological improvements to rider experience whilst ensuring compliance and legal requirements are met.
 
 ## Hobbies
 
