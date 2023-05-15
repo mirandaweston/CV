@@ -32,7 +32,7 @@ I am looking for a Full Stack Junior Developer role where I can continue to writ
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | [Tenant Talk](https://github.com/mirandaweston/tenant-talk) | A web app allowing users to rate their rental. Users can sign up, log in/out, search properties, create a review and upload photos | MERN plus Tailwind, Jest, Cypress                   |
 | [Footwear Retailer PLP](https://github.com/mirandaweston/footwear-retailer)     | A Product Listings Page (PLP) for a software company providing an ecommerce platform for retailers                                           | Vue.js, JavaScript, HTML, CSS, Cypress
-| [MakersBnB](https://github.com/mirandaweston/makersbnb)   | A web app allowing users to book, view and rent out spaces                                                                         | Ruby, Sinatra, PostgreSQL, HTML, CSS, Bootstrap, RSpec |
+| [Stock Portfolio Tracker](https://github.com/mirandaweston/track-your-shares)   | Current project: a web app allowing users to make informed investment decisions by viewing stocks and managing their portfolio/s according to their performance                                                                          | Frontend app with Vue.js, building into a MEVN stack |
 | [Bank System](https://github.com/mirandaweston/bank-tech-test) | A program simulating a bank: users can make deposits and withdrawals before printing a bank statement                              | JavaScript, Node.js, Jest                                        |                       |
 
 ## Education
@@ -74,7 +74,7 @@ Responsible for aiding the development and implementation of policy work in cent
 **Stay Safe East** (July 2019 - June 2022)  
 _Policy and Research Officer_
 
-A focus on conducting research and data analysis (quantitative and qualitative) to inform national domestic abuse policy. This involved building relationships with internal and external stakeholders, including peers in the House of Lords, to shape the passage of the Domestic Abuse Bill through Parliament.
+Managing the organisation's website on the frontend and conducting research (quantitative and qualitative) to inform national domestic abuse policy. This involved building relationships with internal and external stakeholders, including peers in the House of Lords, to shape the passage of the Domestic Abuse Bill through Parliament.
 
 **Deliveroo** (November 2015 - March 2018)  
 _Rider Operations Associate_
