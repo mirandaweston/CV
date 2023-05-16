@@ -46,7 +46,7 @@ Highly selective 16-week programming course focusing on:
 - Agile methodologies
 - Test-driven development
 - Software craftsmanship
-- Ruby, JavaScript, React, Node.js, Angular.js
+- Ruby, JavaScript, React.js, Node.js
 - PostgreSQL, MongoDB
 - RSpec, Jest, Cypress
 
