@@ -31,8 +31,8 @@ I am looking for a Full Stack Junior Developer role where I can continue to writ
 | Name              |  Description                                             | Tech/tools
 | ----------------- | -------------------------------------------------------- | ------------------------------------------ |
 | [Tenant Talk](https://github.com/mirandaweston/tenant-talk)                   | A web app allowing users to rate their rental. Users can sign up, log in/out, search properties, create a review and upload photos                              | MERN plus Tailwind, Jest, Cypress |                    
-| [Footwear Retailer PLP](https://github.com/mirandaweston/footwear-retailer)   | A Product Listings Page (PLP) for a software company providing an ecommerce platform for retailers                                                              | Vue.js, JavaScript, HTML, CSS, Cypress         |      
-| [Stock Portfolio Tracker](https://github.com/mirandaweston/track-your-shares) | Current project: a web app allowing users to make informed investment decisions by viewing stocks and managing their portfolio/s according to their performance | Frontend app with Vue.js, building into a MEVN stack |
+| [Footwear Retailer PLP](https://github.com/mirandaweston/footwear-retailer)   | A Product Listings Page (PLP) for a software company providing an ecommerce platform for retailers                                                              | Vue.js, JavaScript, HTML, CSS, Cypress, Render         |      
+| [Stock Portfolio Tracker](https://github.com/mirandaweston/track-your-shares) | Current project: a web app allowing users to make informed investment decisions by viewing stocks and managing their portfolio/s according to their performance | Vue.js (deployed with Docker), building into a MEVN stack |
 | [Bank System](https://github.com/mirandaweston/bank-tech-test)                | A program simulating a bank: users can make deposits and withdrawals before printing a bank statement                                                            | JavaScript, Node.js, Jest       |                     
 
 ## Education
@@ -66,6 +66,12 @@ Highly selective 16-week programming course focusing on:
 
 ## Work Experience
 
+**Freelance** (March 2023 - present)
+_Software Engineer_
+
+- Building a PostgreSQL database for a client at an oil rig company
+- Building an ecommerce website to allow users to custom build their own cardboard boxes (JavaScript, Node.js, Three.js, HTML and CSS)
+
 **Cabinet Office** (June 2022 - January 2023)  
 _Policy Officer_
 
@@ -85,4 +91,3 @@ Interviewing candidates and managing new cyclist onboarding for Deliveroo, as we
 
 - Tech meetups, particularly those held by organisations striving to diversify the tech field
 - Travel (I seem to have taken a real shining to Scandinavia in particular)
-- Yoga
