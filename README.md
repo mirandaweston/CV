@@ -66,24 +66,20 @@ Highly selective 16-week programming course focusing on:
 
 ## Work Experience
 
-**Freelance** (March 2023 - present)
-_Software Engineer_
+**_Freelance Software Engineer_** (March 2023 - present)
 
 - Building a PostgreSQL database for a client at an oil rig company
 - Building an ecommerce website to allow users to custom build their own cardboard boxes (JavaScript, Node.js, Three.js, HTML and CSS)
 
-**Cabinet Office** (June 2022 - January 2023)  
-_Policy Officer_
+**_Policy Officer_ at Cabinet Office** (June 2022 - January 2023)
 
 Responsible for aiding the development and implementation of policy work in central government to ensure that ministerial objectives are met.
 
-**Stay Safe East** (July 2019 - June 2022)  
-_Policy and Research Officer_
+**_Policy and Research Officer_ at Stay Safe East** (July 2019 - June 2022)
 
 Managing the organisation's website on the frontend and conducting research (quantitative and qualitative) to inform national domestic abuse policy. This involved building relationships with internal and external stakeholders, including peers in the House of Lords, to shape the passage of the Domestic Abuse Bill through Parliament.
 
-**Deliveroo** (November 2015 - March 2018)  
-_Rider Operations Associate_
+**_Rider Operations Associate_ at Deliveroo** (November 2015 - March 2018)
 
 Interviewing candidates and managing new cyclist onboarding for Deliveroo, as well as working with the Global Ops team to deliver technological improvements to rider experience whilst ensuring compliance and legal requirements are met.
 
