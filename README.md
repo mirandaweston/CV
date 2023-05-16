@@ -73,15 +73,18 @@ Highly selective 16-week programming course focusing on:
 
 **_Policy Officer_ at Cabinet Office** (June 2022 - January 2023)
 
-Responsible for aiding the development and implementation of policy work in central government to ensure that ministerial objectives are met.
+- Aiding the development and implementation of policy work in central government to ensure that ministerial objectives are met
+- Shadowed software engineers in the GDS to learn more about the software engineering lifecycle
 
 **_Policy and Research Officer_ at Stay Safe East** (July 2019 - June 2022)
 
-Managing the organisation's website on the frontend and conducting research (quantitative and qualitative) to inform national domestic abuse policy. This involved building relationships with internal and external stakeholders, including peers in the House of Lords, to shape the passage of the Domestic Abuse Bill through Parliament.
+- Managing the organisation's website on the frontend and conducting research (quantitative and qualitative) to inform national domestic abuse policy
+- Building relationships with internal and external stakeholders, including peers in the House of Lords, to shape the passage of the Domestic Abuse Bill through Parliament
 
 **_Rider Operations Associate_ at Deliveroo** (November 2015 - March 2018)
 
-Interviewing candidates and managing new cyclist onboarding for Deliveroo, as well as working with the Global Ops team to deliver technological improvements to rider experience whilst ensuring compliance and legal requirements are met.
+- Interviewing candidates and managing new cyclist onboarding for Deliveroo
+- Working with the Global Ops team to deliver technological improvements to rider experience whilst ensuring compliance and legal requirements are met.
 
 ## Hobbies
 
