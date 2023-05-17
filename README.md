@@ -1,6 +1,6 @@
 # Miranda Weston
 
-[Projects](#Projects) | [Experience](#Experience) | [Education](#Education) | [LinkedIn](https://www.linkedin.com/in/miranda-w-8b3461156/) | [GitHub](https://github.com/mirandaweston) | [Blog](https://medium.com/@mkdirbc) | [Code review](https://github.com/mirandaweston/band-pass-filter)
+[Projects](#Projects) | [Experience](#WorkExperience) | [Education](#Education) | [LinkedIn](https://www.linkedin.com/in/miranda-w-8b3461156/) | [GitHub](https://github.com/mirandaweston) | [Blog](https://medium.com/@mkdirbc) | [Code review](https://github.com/mirandaweston/band-pass-filter)
 
 Full Stack Software Engineer trained at [Makers Academy](https://makers.tech) and have since been in freelance work as well as building my current personal project: a PERN stack financial news aggregator. Looking for a role where I can continue to write clean code and develop my programming knowledge in a growth-oriented environment.
 
