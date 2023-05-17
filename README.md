@@ -1,38 +1,36 @@
 # Miranda Weston
 
-[Projects](#Projects) | [Experience](#Experience) | [Education](#Education) | [LinkedIn](https://www.linkedin.com/in/miranda-w-8b3461156/) | [GitHub](https://github.com/mirandaweston) | [Blog](https://medium.com/@mkdirbc)
+[Projects](#Projects) | [Experience](#Experience) | [Education](#Education) | [LinkedIn](https://www.linkedin.com/in/miranda-w-8b3461156/) | [GitHub](https://github.com/mirandaweston) | [Blog](https://medium.com/@mkdirbc) | [Code review](https://github.com/mirandaweston/band-pass-filter)
 
-Full Stack Junior Developer trained at [Makers Academy](https://makers.tech).
+Full Stack Junior Developer trained at [Makers Academy](https://makers.tech). Looking for a role where I can continue to write clean code and develop my programming knowledge in a growth-oriented environment.
 
 My background before coding exists at the intersection of global health and human rights, having obtained a BA in the former and an MSc in the latter, whilst working in national domestic abuse policy approached as a health issue and a human rights violation.
 
 What began as a hobby became a catalyst for a reassessment of my career aspirations: coding is addictive, creative, and logical. It requires patience, self-discipline and a hunger to learn. The logic-driven ability to create something that previously did not exist is what keeps me coding.
 
-I am looking for a Full Stack Junior Developer role where I can continue to write clean code and develop my programming knowledge in a growth-oriented environment.
-
 ## Skills
 
 ### Fast learner
 
-- Learning to code developed my growth-oriented mindset and satiated my need for constant mental stimulation, aided by the principles of spiral learning.
-- My ability to rapidly consume, retain and apply skills was required whilst working in Operations at Deliveroo at a time of technological change in how riders were onboarded to satisfy new compliance and legal requirements. I grasped and immediately applied new technical skills to suit an evolving start-up where processes were subject to change with immediate effect.
+Learning to code developed my growth-oriented mindset and satiates my hunger to learn, aided by the principles of spiral learning.
+My ability to rapidly consume, retain and apply skills was required whilst working in Operations at Deliveroo at a time of technological change in how riders were onboarded to satisfy new compliance and legal requirements. I grasped and immediately applied new technical skills to suit an evolving start-up where processes were subject to change with immediate effect.
 
 ### Communicator
 
-- Makers has consolidated my communication skills within a coding environment, particularly when reviewing each other's code, with an emphasis on pair programming from day one. Habitual collaborative learning engenders a deeper understanding of one's progress whilst working together to write cleaner code.
+Makers has consolidated my communication skills within a coding environment, particularly when reviewing each other's code, with an emphasis on pair programming from day one. Habitual collaborative learning engenders a deeper understanding of one's progress whilst working together to write cleaner code.
 
 ### Self-starter
 
-- Self-motivation and self-discipline have been intrinsic to my coding journey. Makers catalysed the development of these attributes with its emphasis on self-led learning in preparation for everyday life as a programmer.
-- Whilst working in Cabinet Office, I sought connections with Government Digital Service to network with software engineers and learn more about what it takes to be a coder.
+Self-motivation and self-discipline have been intrinsic to my coding journey. Makers catalysed the development of these attributes with its emphasis on self-led learning in preparation for everyday life as a programmer.
+Whilst working in Cabinet Office, I sought connections with Government Digital Service to network with software engineers and learn more about what it takes to be a programmer.
 
 ## Projects
 
-| Name              |  Description                                             | Tech/tools
-| ----------------- | -------------------------------------------------------- | ------------------------------------------ |
-| [Tenant Talk](https://github.com/mirandaweston/tenant-talk)                   | A web app allowing users to rate their rental. Users can sign up, log in/out, search properties, create a review and upload photos                              | MERN plus Tailwind, Jest, Cypress |                    
-| [Footwear Retailer PLP](https://github.com/mirandaweston/footwear-retailer)   | A Product Listings Page (PLP) for a software company providing an ecommerce platform for retailers                                                              | Vue.js, JavaScript, HTML, CSS, Cypress, Render         |      
-| [Stock Portfolio Tracker](https://github.com/mirandaweston/track-your-shares) | Current project: a web app allowing users to make informed investment decisions by viewing stocks and managing their portfolio/s according to their performance | Vue.js (deployed with Docker), building into a MEVN stack |
+| Name                     |  Description                                           | Tech/tools
+| ------------------------ | ------------------------------------------------------ | ---------------------------------------- |
+| [Tenant Talk](https://github.com/mirandaweston/tenant-talk)                   | A web app allowing users to rate their rental. Users can sign up, log in/out, search properties, create a review and upload photos                              | MERN plus Tailwind, Jest, Cypress |
+| [Stock Portfolio Tracker](https://github.com/mirandaweston/track-your-shares) | A web app allowing users to make informed investment decisions by viewing stocks and managing their portfolio/s according to their performance | Vue.js (deployed with Docker), building into a MEVN stack |
+| [Footwear Retailer PLP](https://github.com/mirandaweston/footwear-retailer)   | A Product Listings Page (PLP) for a software company providing an ecommerce platform for retailers                                                              | Vue.js, JavaScript, HTML, CSS, Cypress, Render         | 
 | [Bank System](https://github.com/mirandaweston/bank-tech-test)                | A program simulating a bank: users can make deposits and withdrawals before printing a bank statement                                                            | JavaScript, Node.js, Jest       |                     
 
 ## Education
@@ -66,15 +64,15 @@ Highly selective 16-week programming course focusing on:
 
 ## Work Experience
 
-**_Freelance Software Engineer_** (March 2023 - present)
+**_Freelance Software Engineer_** (April 2023 - present)
 
 - Building a PostgreSQL database for a client at an oil rig company
-- Building an ecommerce website to allow users to custom build their own cardboard boxes (JavaScript, Node.js, Three.js, HTML and CSS)
+- Building an ecommerce website to allow users to custom build their own cardboard boxes (with JavaScript, Node.js, Three.js, HTML and CSS)
 
 **_Policy Officer_ at Cabinet Office** (June 2022 - January 2023)
 
 - Aiding the development and implementation of policy work in central government to ensure that ministerial objectives are met
-- Shadowed software engineers in the GDS to learn more about the software engineering lifecycle
+- Shadowing software engineers in the Government Digital Service to learn more about the software engineering lifecycle
 
 **_Policy and Research Officer_ at Stay Safe East** (July 2019 - June 2022)
 
@@ -84,7 +82,7 @@ Highly selective 16-week programming course focusing on:
 **_Rider Operations Associate_ at Deliveroo** (November 2015 - March 2018)
 
 - Interviewing candidates and managing new cyclist onboarding for Deliveroo
-- Working with the Global Ops team to deliver technological improvements to rider experience whilst ensuring compliance and legal requirements are met.
+- Working with the Global Ops team to deliver technological improvements to rider experience whilst ensuring compliance and legal requirements are met
 
 ## Hobbies
 
